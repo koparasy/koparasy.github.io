@@ -29,7 +29,13 @@
       "startDate": "2020-02-23",
       "endDate": "Present",
       "summary": "Researching System Software Optimizations",
-      "highlights": ["Performance Optimization", "Compiler Optimizations", "Approximate Computing", "Machine Learning Surrogate Models", "HPC"]
+      "highlights": [
+        "Performance Optimization",
+        "Compiler Optimizations",
+        "Approximate Computing",
+        "Machine Learning Surrogate Models",
+        "HPC"
+      ]
     }
   ],
   "education": [
@@ -42,11 +48,15 @@
       "startDate": "2014",
       "endDate": "2018",
       "score": "10",
-      "courses": ["Computer Architecture", "Advanced Computer Architecture", "High Perfomance Software Development"]
+      "courses": [
+        "Computer Architecture",
+        "Advanced Computer Architecture",
+        "High Perfomance Software Development"
+      ]
     }
   ],
   "awards": [
-	  {
+    {
       "title": "Nominated for the SC-23 Best Paper Award",
       "date": "2023-11-14",
       "awarder": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
