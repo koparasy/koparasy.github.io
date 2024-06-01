@@ -1,128 +1,129 @@
 {
-  "basics": {
-    "name": "Konstantinos Parasyris (Dinos)",
-    "label": "Computer Scientist",
-    "image": "",
-    "email": "parasyris1@llnl.gov",
-    "url": "https://koparasy.github.io/",
-    "summary": "A Greek-Born Computer Scientist focusing on system software research.",
-    "location": {
-      "address": "7000 East Ave",
-      "postalCode": "CA 94550",
-      "city": "Livermore",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "__koparasy__",
-        "url": "https://x.com/__koparasy__"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Lawrence Livermore National Laboratory",
-      "position": "Computer Scientist",
-      "url": "https://www.llnl.gov/",
-      "startDate": "2020-02-23",
-      "endDate": "Present",
-      "summary": "Researching System Software Optimizations",
-      "highlights": [
-        "Performance Optimization",
-        "Compiler Optimizations",
-        "Approximate Computing",
-        "Machine Learning Surrogate Models",
-        "HPC"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University Of Thessaly",
-      "location": "Volos, Greece",
-      "url": "https://www.e-ce.uth.gr/?lang=en",
-      "area": "Computer Science/Engineering",
-      "studyType": "PhD",
-      "startDate": "2014",
-      "endDate": "2018",
-      "score": "10",
-      "courses": [
-        "Computer Architecture",
-        "Advanced Computer Architecture",
-        "High Perfomance Software Development"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nominated for the SC-23 Best Paper Award",
-      "date": "2023-11-14",
-      "awarder": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
-      "url": "https://www.llnl.gov/article/50676/revolutionary-tool-speeds-gpu-programs-scientific-applications"
-    },
-    {
-      "title": "SC-21 Best Reproducibility Advancement Award",
-      "date": "2021-11-17",
-      "awarder": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
-      "url": "https://www.llnl.gov/article/48206/llnl-team-wins-sc21-reproducibility-advancement-award",
-      "summary": "This award aims to encourage transparency and reproducibility and to reward outstanding efforts that broadly fall under the following scope: Improvements in transparency and reproducibility of research in HPC, e.g., via tools or methods."
-    }
-  ],
-  "skills": [
-    {
-      "name": "C",
-      "level": "Expert"
-    },
-    {
-      "name": "C++",
-      "level": "Expert"
-    },
-    {
-      "name": "Python",
-      "level": "Master"
-    }
-  ],
-  "tools": [
-    {
-      "name": "LLVM",
-      "level": "Expert"
-    },
-    {
-      "name": "Spack",
-      "level": "Proficient"
-    },
-    {
-      "name": "Py-Torch",
-      "level": "Proficient"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Computer Science",
-      "keywords": [
-        "Software Performance Optimization",
-        "System Software",
-        "Compilers",
-        "Machine Learning"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Autonomous MultiScale Library",
-      "summary": "Provide software support to enable domain scientists to replace application functions with efficient surrogate models.",
-      "startDate": "2021-10-01",
-      "endDate": "2024-09-30",
-      "url": "https://github.com/LLNL/AMS"
-    },
-    {
-      "name": "Localize and Explain Performance Defects in Heterogeneous Applications",
-      "summary": "Identify program locations that exhibit inflated execution time and identify automated ways to optimize them.",
-      "startDate": "2022-10-01",
-      "endDate": "2025-09-30",
-      "url": "https://dl.acm.org/doi/abs/10.1145/3581784.3607098"
-    }
-  ]
+	"basics": {
+		"name": "Konstantinos Parasyris (Dinos)",
+		"label": "Computer Scientist",
+		"image": "",
+		"email": "parasyris1@llnl.gov",
+		"url": "https://koparasy.github.io/",
+		"summary": "A Greek-Born Computer Scientist focusing on system software research.",
+		"location": {
+			"address": "7000 East Ave",
+			"postalCode": "CA 94550",
+			"city": "Livermore",
+			"countryCode": "US",
+			"region": "California"
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "__koparasy__",
+				"url": "https://x.com/__koparasy__"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Lawrence Livermore National Laboratory",
+			"position": "Computer Scientist",
+			"url": "https://www.llnl.gov/",
+			"startDate": "2020-02-23",
+			"endDate": "Present",
+			"summary": "Researching System Software Optimizations",
+			"highlights": [
+				"Performance Optimization",
+				"Compiler Optimizations",
+				"Approximate Computing",
+				"Machine Learning Surrogate Models",
+				"HPC"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "University Of Thessaly",
+			"location": "Volos, Greece",
+			"url": "https://www.e-ce.uth.gr/?lang=en",
+			"area": "Computer Science/Engineering",
+			"studyType": "PhD",
+			"startDate": "2014",
+			"endDate": "2018",
+			"score": "10",
+			"courses": [
+				"Computer Architecture",
+				"Advanced Computer Architecture",
+				"High Perfomance Software Development"
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Nominated for the SC-23 Best Paper Award",
+			"date": "2023-11-14",
+			"awarder": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
+			"url": "https://www.llnl.gov/article/50676/revolutionary-tool-speeds-gpu-programs-scientific-applications"
+		},
+		{
+			"title": "SC-21 Best Reproducibility Advancement Award",
+			"date": "2021-11-17",
+			"awarder": "The International Conference for High Performance Computing, Networking, Storage, and Analysis",
+			"url": "https://www.llnl.gov/article/48206/llnl-team-wins-sc21-reproducibility-advancement-award",
+			"summary": "This award aims to encourage transparency and reproducibility and to reward outstanding efforts that broadly fall under the following scope: Improvements in transparency and reproducibility of research in HPC, e.g., via tools or methods."
+		}
+	],
+	"skills": [
+		{
+			"name": "C",
+			"level": "Expert"
+		},
+		{
+			"name": "C++",
+			"level": "Expert"
+		},
+		{
+			"name": "Python",
+			"level": "Master"
+		}
+	],
+	"tools": [
+		{
+			"name": "LLVM",
+			"level": "Expert"
+		},
+		{
+			"name": "Spack",
+			"level": "Proficient"
+		},
+		{
+			"name": "Py-Torch",
+			"level": "Proficient"
+		}
+	],
+	"interests": [
+		{
+			"name": "Computer Science",
+			"keywords": [
+				"Software Performance Optimization",
+				"System Software",
+				"Compilers",
+				"Machine Learning"
+			]
+		}
+	],
+	"projects": [
+		{
+			"name": "Autonomous MultiScale Library",
+			"summary": "Provide software support to enable domain scientists to replace application functions with efficient surrogate models.",
+			"startDate": "2021-10-01",
+			"endDate": "2024-09-30",
+			"url": "https://github.com/LLNL/AMS"
+		},
+		{
+			"name": "Localize and Explain Performance Defects in Heterogeneous Applications",
+			"summary": "Identify program locations that exhibit inflated execution time and identify automated ways to optimize them.",
+			"startDate": "2022-10-01",
+			"endDate": "2025-09-30",
+			"url": "https://dl.acm.org/doi/abs/10.1145/3581784.3607098"
+		}
+	]
 }
+
