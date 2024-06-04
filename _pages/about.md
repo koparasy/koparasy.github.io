@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://computing.llnl.gov/casc'>LLNL-CASC</a>. I am pretty average in the grand scheme of things, and I am find with it. 
+subtitle: <a href='https://computing.llnl.gov/casc'>LLNL-CASC</a>. I am pretty average in the grand scheme of things, and I am fine with it. 
 
 profile:
   align: right
