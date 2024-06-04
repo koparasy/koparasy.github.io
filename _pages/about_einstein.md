@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+When I was young I enjoyed breaking things and building them back sometimes unsuccessfully.
+This process imprinted in me a capability of understanding *how things work*. 
+This inherent curiosity followed me in my studies ([Computer Science/Engineering](https://www.e-ce.uth.gr/?lang=en)). 
+Today, after receiving my Ph.D from the [CSL-lab](https://csl.e-ce.uth.gr/) and continuing for years to break up things, make them run faster and understand their internals I turned into a *generalist*
+I can [develop code](/ai-folio/repositories) and [publish research](/al-folio/publications) in hardware micro-architecture simulators ([Gem5](https://www.gem5.org/), compilers ([Clang/LLVM](https://llvm.org/)), Parallel Programming (OpenMP, CUDA)),
+use Deep Learning Libraries (Py-Torch) and build complicated software ([AMS](https://github.com/LLNL/AMS)).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
