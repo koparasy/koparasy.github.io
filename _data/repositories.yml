@@ -5,4 +5,4 @@ github_repos:
   - LLNL/AMS
   - LLNL/HPAC
   - llvm/llvm-project
-  - numba/llvmlite
+  - koparasy/llvmlite
