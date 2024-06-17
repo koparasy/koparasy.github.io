@@ -2,6 +2,7 @@ github_users:
   - koparasy
 
 github_repos:
+  - koparasy/gemfi
   - LLNL/AMS
   - LLNL/HPAC
   - llvm/llvm-project
