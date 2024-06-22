@@ -7,3 +7,5 @@ github_repos:
   - LLNL/HPAC
   - llvm/llvm-project
   - koparasy/llvmlite
+  - koparasy/spack
+  - koparasy/triton
