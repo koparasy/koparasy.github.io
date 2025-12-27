@@ -1,0 +1,15 @@
+title: Konstantinos Parasyris
+description: LLNL-CASC · Compilers, HPC, ML systems, GPU, Performance Optimization
+theme: minima
+
+# Optional: show downloads / repo metadata (works for user site too)
+plugins:
+  - jekyll-feed
+
+# If you use a project site (not koparasy.github.io), set baseurl:
+# baseurl: "/personal-page"
+
+# Minima theme options
+minima:
+  skin: auto
+
