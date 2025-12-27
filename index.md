@@ -30,7 +30,7 @@ I work on systems that sit at the intersection of **compilers (Clang/LLVM/MLIR)*
 **Proteus**  
 [Proteus](https://olympus-hpc.github.io/proteus/) is an LLVM-based JIT specialization framework that enables IR-level transformations and optimization decisions at runtime. It allows selective specialization of function arguments, dynamic optimization-level selection, and integration of custom LLVM passes without requiring whole-program recompilation. Proteus is designed for incremental adoption in HPC codes and supports both CUDA and HIP toolchains.
 
-**AMS** 
+**AMS**  
 [AMS](https://software.llnl.gov/AMS/) integrates machine-learning surrogate models into scientific simulation codes to accelerate expensive computations while preserving correctness. It provides a runtime interface for model inference, confidence-based fallback to the original computation, and seamless integration with MPI-based ensemble workflows. AMS is designed to support emerging AI-driven workflows in production HPC environments.
 
 **ClangIR (CIR)**  
